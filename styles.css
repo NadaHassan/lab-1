@@ -1,0 +1,86 @@
+.row1, .row2, .row3 {
+	float: left;
+	display: inline;
+
+}
+
+p {position: inline;
+}
+
+.one {
+	border: 1px solid black;
+	padding: 10px;
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+.two {
+	border: 1px solid black;
+	padding: 10px;
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+	float: center;
+}
+
+.three {
+	border: 1px solid black;
+	padding: 10px;
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+float: right;
+}
+
+.four {
+	border: 1px dotted black;
+	padding: 10px;
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+.five {
+	border: 1px dotted black;
+	padding: 10px;
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+	float: center;
+}
+
+.six {
+	border: 1px dotted black;
+	padding: 10px;
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+	float: right;
+}
+
+.seven {
+	border: 1px dotted orange;
+	padding: 10px;
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+}
+
+.eight {
+	border: 1px dotted orange;
+	padding: 10px;
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+}
+
+.nine {
+	border: 1px dotted orange;
+	padding: 10px;
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+}
